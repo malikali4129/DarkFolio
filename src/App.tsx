@@ -13,7 +13,7 @@ import { Routes, Route } from "react-router-dom";
 import About from "./pages/About";
 
 
-const logos = ["PRINCE", "WEBKAIZEN", "FRONTEND", "DEVELOPER"];
+const logos = ["MALIK", "WEBKAIZEN", "FRONTEND", "DEVELOPER"];
 
 export default function App() {
   const [showWelcome, setShowWelcome] = useState(true);
@@ -89,7 +89,7 @@ export default function App() {
               />
 
               <span className="text-[10px] md:text-xs tracking-[0.3em] text-white/70 uppercase font-medium">
-                PRINCE · WEBKAIZEN
+                MALIK · AIMGRAPHICS
               </span>
             </div>
             <ul className="hidden md:flex items-center gap-10 text-xs tracking-widest text-white/70 uppercase">

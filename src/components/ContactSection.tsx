@@ -627,7 +627,7 @@ export default function ContactSection() {
   Copyright © {new Date().getFullYear()} All Rights Reserved | Created by{" "}
   
   <span className="relative inline-block text-white/70">
-    prince
+    malik
     <span className="absolute left-1/2 -translate-x-1/2 -bottom-2">
       <div className="h-px w-24 bg-gradient-to-r from-transparent via-white/25 to-transparent" />
     </span>

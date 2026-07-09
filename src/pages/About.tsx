@@ -60,7 +60,7 @@ export default function About() {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Prince Singh Resume</title>
+    <title>Malik Ali Resume</title>
     <style>
         * {
             margin: 0;
@@ -456,7 +456,7 @@ export default function About() {
             <div class="header">
                 <img src="https://raw.githubusercontent.com/princekumar-dev74/web-images-link/31f4e55d34521861579bab4ab322372fe7d8cec4/Name%20%3D%20Prince%20Singh.png" alt="Prince Kumar" class="profile-photo">
                 <div class="header-content">
-                    <h1>Prince Kumar</h1>
+                    <h1>Malik Ali</h1>
                     <p class="title">Frontend Developer | Cybersecurity & AI Enthusiast</p>
                     <div class="contact-info">
                         <div class="contact-item">
@@ -685,7 +685,7 @@ export default function About() {
         >
           <img
             src="/assets/prince.png"
-            alt="Prince Kumar"
+            alt="Malik Ali"
             className="
               w-[200px]
               sm:w-[280px]
